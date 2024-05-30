@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+.highlight{
+    background-color: red;
+    color: white;
+    font-size: 30px;
+  }
+  .headline{
+    color: orange;
+  }
+  #where{
+    font-size: 40px;
+  }
